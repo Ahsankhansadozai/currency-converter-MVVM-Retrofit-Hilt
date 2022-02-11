@@ -54,7 +54,6 @@ object Utility {
         return false
     }
 
-    @RequiresApi(Build.VERSION_CODES.M)
     fun makeStatusBarTransparent(activity: Activity) {
         val decor = activity.window.decorView
         decor.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR

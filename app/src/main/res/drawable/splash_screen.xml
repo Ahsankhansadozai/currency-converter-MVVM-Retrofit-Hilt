@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:opacity="opaque">
     <!-- The background color-->
-    <item android:drawable="@android:color/white"/>
+    <item android:drawable="@color/colorPrimaryDark"/>
 
     <!-- Placeholder logo (Use the logo you uploaded)-->
 

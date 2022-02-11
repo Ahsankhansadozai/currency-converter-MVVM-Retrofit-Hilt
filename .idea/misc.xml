@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyGitPublicRepos/currency-converter/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/MyGitPublicRepos/currency-converter/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Wolfiz Solutions/AndroidStudioProjects/Currency_Converter_MVVM/app/src/main/res/drawable/btn_main_round.xml" value="0.188" />
         <entry key="..\:/Users/Wolfiz Solutions/AndroidStudioProjects/Currency_Converter_MVVM/app/src/main/res/drawable/edit_text_input_with_border.xml" value="0.188" />
         <entry key="..\:/Users/Wolfiz Solutions/AndroidStudioProjects/Currency_Converter_MVVM/app/src/main/res/drawable/edit_text_input_with_border_2.xml" value="0.188" />

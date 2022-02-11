@@ -61,5 +61,5 @@ class AppModule {
     //Class helper with apiService Interface
     @Provides
     @Singleton
-    fun provideApiDatSource(apiService: ApiService) = ApiDataSource(apiService)
+    fun provideApiDataSource(apiService: ApiService) = ApiDataSource(apiService)
 }
